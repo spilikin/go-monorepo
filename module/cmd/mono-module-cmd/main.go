@@ -7,5 +7,6 @@ import (
 )
 
 func main() {
+	fmt.Println("This is v2")
 	fmt.Println(module.MessageFromModule())
 }
